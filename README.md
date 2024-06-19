@@ -21,7 +21,7 @@ Nous avons mis en place un GitHub flow avec plusieurs branches structurées pour
 
 ### Variables d'Environnement
 
-Un fichier `.env` a été ajouté au backend pour gérer les variables d'environnement sensibles. La connexion à MongoDB Atlas est gérée par la variable `CONNECTION_STRING`, configurée selon les instructions détaillées dans des vidéos explicatives.
+Un fichier `.env` a été ajouté au backend pour gérer les variables d'environnement sensibles. La connexion à MongoDB Atlas est gérée par la variable `CONNECTION_STRING`.
 
 ### Base de Données
 
